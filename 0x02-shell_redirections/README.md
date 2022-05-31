@@ -49,3 +49,5 @@
 
 24 - script lists all files with ".gif" extension
 
+25 - script decodes acrsotics
+
