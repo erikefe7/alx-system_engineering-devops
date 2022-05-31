@@ -33,3 +33,5 @@
 
 16 - script displays the pattern "root" and 3 lines after that
 
+17 - script displays non-pattern of "bin" in /etc/passwd
+
