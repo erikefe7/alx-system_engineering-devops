@@ -47,3 +47,5 @@
 
 23 - script finds all empty files and directories
 
+24 - script lists all files with ".gif" extension
+
