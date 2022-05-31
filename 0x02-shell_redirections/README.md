@@ -22,4 +22,6 @@
 10 - script finds all .js files also in subfolders and deletes it
 
 11 - script finds number of the directories and sub-directories excluding current directory
- 
+
+12 - script lists the newest 10 files in order
+
