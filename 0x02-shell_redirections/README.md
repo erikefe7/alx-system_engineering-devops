@@ -35,3 +35,5 @@
 
 17 - script displays non-pattern of "bin" in /etc/passwd
 
+18 - script displays all the lines starting with a letter
+
