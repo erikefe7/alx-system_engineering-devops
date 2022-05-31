@@ -15,3 +15,5 @@
 
 7 - scripts that creates a new file wit a text inside
 
+8 - scripts display writes the result of ls -la in new file overwritten/created
+
