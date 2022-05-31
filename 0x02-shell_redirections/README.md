@@ -41,3 +41,5 @@
 
 20 - script removes all letters 'c' and 'C'
 
+21 - script reverses input
+
