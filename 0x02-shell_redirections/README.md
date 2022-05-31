@@ -13,7 +13,9 @@
 
 6 - script that reads the 3rd line of the iacta file
 
-7 - scripts that creates a new file wit a text inside
+7 - script that creates a new file wit a text inside
 
-8 - scripts display writes the result of ls -la in new file overwritten/created
+8 - script display writes the result of ls -la in new file overwritten/created
+
+9 - script duplicates the last line of the iacta file
 
