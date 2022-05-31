@@ -6,3 +6,5 @@
 
 3 - script that displays content of 2 files
 
+4 - script that reads the last lines of /etc/passwd
+
