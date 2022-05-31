@@ -27,3 +27,5 @@
 
 13 - script sorts and prints only the unique files
 
+14 - script displays lines containing the pattern "root"
+
