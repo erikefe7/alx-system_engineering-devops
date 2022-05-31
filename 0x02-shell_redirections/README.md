@@ -4,3 +4,5 @@
 
 2 - script that displays the content of the /etc/passwd file
 
+3 - script that displays content of 2 files
+
