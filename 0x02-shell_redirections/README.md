@@ -39,3 +39,5 @@
 
 19 - script replaces characters 'A' with 'c' and 'Z' with 'e' 
 
+20 - script removes all letters 'c' and 'C'
+
