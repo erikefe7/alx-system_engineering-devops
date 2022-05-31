@@ -1,3 +1,4 @@
+
 0 - script displays "Hello, World" with new line
 
 1 - script that displays a confused smiley
@@ -11,4 +12,6 @@
 5 - script that reads the first 10 lines of /etc/passwd
 
 6 - script that reads the 3rd line of the iacta file
+
+7 - scripts that creates a new file wit a text inside
 
