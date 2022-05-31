@@ -43,3 +43,5 @@
 
 21 - script reverses input
 
+22 - script displays all users and home directories sorted
+
