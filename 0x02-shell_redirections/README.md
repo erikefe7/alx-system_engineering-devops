@@ -37,3 +37,5 @@
 
 18 - script displays all the lines starting with a letter
 
+19 - script replaces characters 'A' with 'c' and 'Z' with 'e' 
+
