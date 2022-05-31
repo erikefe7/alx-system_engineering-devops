@@ -45,3 +45,5 @@
 
 22 - script displays all users and home directories sorted
 
+23 - script finds all empty files and directories
+
