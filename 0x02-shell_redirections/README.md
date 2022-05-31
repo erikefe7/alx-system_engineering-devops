@@ -10,3 +10,5 @@
 
 5 - script that reads the first 10 lines of /etc/passwd
 
+6 - script that reads the 3rd line of the iacta file
+
