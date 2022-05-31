@@ -29,3 +29,5 @@
 
 14 - script displays lines containing the pattern "root"
 
+15 - script displays the number of pattern the "bin" appears in /etc/passwd
+
