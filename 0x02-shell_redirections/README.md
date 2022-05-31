@@ -19,3 +19,5 @@
 
 9 - script duplicates the last line of the iacta file
 
+10 - script finds all .js files also in subfolders and deletes it
+
