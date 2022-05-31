@@ -2,3 +2,5 @@
 
 1 - script that displays a confused smiley
 
+2 - script that displays the content of the /etc/passwd file
+
