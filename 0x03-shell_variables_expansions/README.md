@@ -1,3 +1,5 @@
 
-0 - scripts creates alias for "ls"
+0 - script creates alias for "ls"
+
+1 - script prints the current user
 
