@@ -33,3 +33,5 @@
 
 102 - script prints every line from the input starting with the first line
 
+103 - script prints 2 variables $WATER and $STIR and produces a result in base "bestchol"
+
