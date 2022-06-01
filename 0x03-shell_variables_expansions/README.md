@@ -21,3 +21,5 @@
 
 10 - script prints $BREATH exponented to $LOVE
 
+11 - script converts $BINARY from base 2 to 10
+
