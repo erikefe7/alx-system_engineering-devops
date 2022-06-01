@@ -11,3 +11,5 @@
 
 5 - script prints global and local enviroment variables and functions
 
+6 - script creates local vairable BEST
+
