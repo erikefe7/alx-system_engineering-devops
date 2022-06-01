@@ -27,3 +27,5 @@
 
 13 - script prints number with 2 decimal places followed by new line
 
+100 - script converts a number in base 10 to base 16
+
