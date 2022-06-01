@@ -9,3 +9,5 @@
 
 4 - script prints the environment variables
 
+5 - script prints global and local enviroment variables and functions
+
