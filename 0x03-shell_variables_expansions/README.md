@@ -17,3 +17,5 @@
 
 8 - script prints addition of number to variable $TRUEKNOWLEDGE
 
+9 - script prints out the division of $POWER and $DIVIDE
+
