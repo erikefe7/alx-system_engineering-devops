@@ -23,3 +23,5 @@
 
 11 - script converts $BINARY from base 2 to 10
 
+12 - script prints combinations of lowercase letters from 1-z without "oo"
+
