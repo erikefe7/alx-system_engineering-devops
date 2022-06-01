@@ -31,3 +31,5 @@
 
 101 - script encodes and decodes text using rot13 encryption
 
+102 - script prints every line from the input starting with the first line
+
