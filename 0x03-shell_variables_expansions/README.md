@@ -19,3 +19,5 @@
 
 9 - script prints out the division of $POWER and $DIVIDE
 
+10 - script prints $BREATH exponented to $LOVE
+
