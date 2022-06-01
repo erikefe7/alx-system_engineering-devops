@@ -15,3 +15,5 @@
 
 7 - script creates global variable SCHOOL
 
+8 - script prints addition of number to variable $TRUEKNOWLEDGE
+
