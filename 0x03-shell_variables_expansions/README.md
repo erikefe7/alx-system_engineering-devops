@@ -29,3 +29,5 @@
 
 100 - script converts a number in base 10 to base 16
 
+101 - script encodes and decodes text using rot13 encryption
+
