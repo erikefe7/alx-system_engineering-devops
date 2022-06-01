@@ -3,3 +3,5 @@
 
 1 - script prints the current user
 
+2 - script adds /action to the PATH./action as the last directory to be found when searched
+
