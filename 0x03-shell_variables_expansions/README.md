@@ -11,5 +11,7 @@
 
 5 - script prints global and local enviroment variables and functions
 
-6 - script creates local vairable BEST
+6 - script creates local variable BEST
+
+7 - script creates global variable SCHOOL
 
