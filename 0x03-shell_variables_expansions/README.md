@@ -25,3 +25,5 @@
 
 12 - script prints combinations of lowercase letters from 1-z without "oo"
 
+13 - script prints number with 2 decimal places followed by new line
+
